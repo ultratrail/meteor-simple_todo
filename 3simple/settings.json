@@ -1,0 +1,12 @@
+{
+    "mqtt": {
+        "mqttClientUrl": "mqtt://localhost",
+        "mqttClientIdPrefix": "openhab",
+        "mqttTopicPrefix": "openhab/",
+        "appUID": "#",
+        "mqttOptions": {
+            "keepalive": 0,
+            "reconnectPeriod": 1000
+        }
+    }
+}
